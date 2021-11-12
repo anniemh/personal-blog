@@ -1,6 +1,6 @@
-@import url(css/typography.css);
-@import url(css/nav.css);
-@import url(css/blog-cards.css);
+@import url(/resources/css/typography.css);
+@import url(resources/css/nav.css);
+@import url(resources/css/blog-cards.css);
 
 * {
     box-sizing: border-box;
